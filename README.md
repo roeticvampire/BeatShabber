@@ -29,11 +29,11 @@ Although I’d not suggest the OpenCV playstyle until I can reliably fix the Mem
 
 ### Screenshots and Clips
 Home Menu
-![Home Menu](readme/Screenshot (56).png)
+![Home Menu](readme/homemenu.png)
 
 Sample Mouse Play
 ![Playback with Mouse](readme/sampleclip.mp4)
-![Beat Shabber](readme/FrameSomething.png)
+
 #### Thanks for giving me your time xD
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
